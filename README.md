@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ko2doo 👋</h1>
+<h1 align="center">Hi, I'm Dmitry (a.k.a NИ) 👋</h1>
 
 <p align="center">
 Frontend developer building adaptive, cross-platform and hybrid applications with modern web technologies.
