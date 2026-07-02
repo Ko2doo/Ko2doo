@@ -44,7 +44,14 @@ Shipped [**Polskie Ślady Taszkent**](https://github.com/Ko2doo/polskie-slady-ta
 ([Google Play](https://play.google.com/store/apps/details?id=com.github.polskiesladytaszkent)) —
 a hybrid offline-first app for exploring Polish historical heritage sites in
 Tashkent, built with Svelte 5, Capacitor, and offline vector maps (MapLibre GL
-+ PMTiles). Full development cycle: concept → architecture → release.
++ PMTiles). Full development cycle: concept > architecture > release.
+
+Designed and built [polskie-slady-storytelling](https://github.com/Ko2doo/polskie-slady-storytelling)
+(live demo) — a GSAP-driven
+storytelling exhibit presented live on a 4K interactive display at the Polish Cultural Center
+"Świetlica Polska" in Tashkent. The presentation was covered by
+[Polonijna Agencja Informacyjna](https://pai.media.pl/pai_wiadomosci.php?id=44227), a Polish diaspora
+press agency.
 
 Interested in deeper JavaScript/TypeScript expertise, thoughtful UX design,
 and framework-agnostic engineering — I choose tools based on project
