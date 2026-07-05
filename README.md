@@ -46,7 +46,7 @@ a hybrid offline-first app for exploring Polish historical heritage sites in
 Tashkent, built with Svelte 5, Capacitor, and offline vector maps (MapLibre GL + PMTiles). Full development cycle: concept > architecture > release.
 
 Designed and built [**polskie-slady-storytelling**](https://github.com/Ko2doo/polskie-slady-storytelling)
-[(live demo)](https://github.com/Ko2doo/polskie-slady-storytelling-preview) — a GSAP-driven
+[(live demo)](https://ko2doo.github.io/polskie-slady-storytelling-preview/) — a GSAP-driven
 storytelling exhibit presented live on a 4K interactive display at the Polish Cultural Center
 "Świetlica Polska" in Tashkent. The presentation was covered by
 [Polonijna Agencja Informacyjna](https://pai.media.pl/pai_wiadomosci.php?id=44227), a Polish diaspora
