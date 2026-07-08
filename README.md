@@ -41,7 +41,7 @@ auto-imports, image optimization and archiving, decoupled on purpose to
 avoid tying the core build system to third-party plugin security issues.
 
 Shipped [**Polskie Ślady Taszkent**](https://github.com/Ko2doo/polskie-slady-taszkent)
-([Google Play](https://play.google.com/store/apps/details?id=com.github.polskiesladytaszkent)) —
+([Google Play](https://play.google.com/store/apps/details?id=com.github.polskiesladytaszkent)) and ([App Store](https://apps.apple.com/us/app/id6782352124)) —
 a hybrid offline-first app for exploring Polish historical heritage sites in
 Tashkent, built with Svelte 5, Capacitor, and offline vector maps (MapLibre GL + PMTiles). Full development cycle: concept > architecture > release.
 
