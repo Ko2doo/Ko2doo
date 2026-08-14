@@ -77,7 +77,7 @@ requirements, not loyalty.
 
 ### Build & Tooling
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vite,webpack,gulp,babel,prettier,nodemon" />
+<img src="https://skillicons.dev/icons?i=vite,webpack,gulp,babel,prettier" />
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
