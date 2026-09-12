@@ -52,6 +52,13 @@ storytelling exhibit presented live on a 4K interactive display at the Polish Cu
 [Polonijna Agencja Informacyjna](https://pai.media.pl/pai_wiadomosci.php?id=44227), a Polish diaspora
 press agency.
 
+Built [**weather-app**](https://github.com/Ko2doo/weather_app)
+([live demo](https://weather-app.galaxyrobotix.workers.dev/)) — a Vue 3 +
+Vite weather forecast app from a Vue.js 3 course, extended past the
+assignment with IP-based city geolocation, localStorage persistence, an
+hourly forecast view, and a self-deployed Cloudflare Workers backend
+proxying the weather API to keep the key off the client.
+
 Interested in deeper JavaScript/TypeScript expertise, thoughtful UX design,
 and framework-agnostic engineering — I choose tools based on project
 requirements, not loyalty.
