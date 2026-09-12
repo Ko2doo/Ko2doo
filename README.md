@@ -15,7 +15,7 @@ Building UI systems • Hybrid applications • Frontend tooling
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sass,js,ts,svelte,react,nodejs,vite,tailwind,git,linux" />
+<img src="https://skillicons.dev/icons?i=sass,js,ts,svelte,vue,react,nodejs,vite,tailwind,git,linux" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ requirements, not loyalty.
 
 ### Frameworks & UI
 <p align="left">
-<img src="https://skillicons.dev/icons?i=svelte,react,bootstrap,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=svelte,vue,react,bootstrap,tailwind,figma" />
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Framework7-EE350F?style=flat-square&logo=framework7&logoColor=white" />
